@@ -37,7 +37,7 @@
 
 The purpose of this repo is to gather all the assets, rules and design processes in one place.
 
-Our goals of having [project planning](https://github.com/JoyStream/joystream), [public communication](https://github.com/Joystream/communications) and design repos on github, is to cultivate an open and transparant structure, throughout the organization and community.
+Our goals of having the [project planning](https://github.com/JoyStream/joystream), [public communication](https://github.com/Joystream/communications) and (this) design repo on github, is to cultivate an open and transparant structure, throughout the organization and community.
 
 # Contribute
 
