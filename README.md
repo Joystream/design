@@ -1,27 +1,5 @@
 <p align="center"><img src="design-repo.svg"></p>
 
-
-<div align="center">
-  <h2>
-    Other Assets in Repos Below:
-  </h2>
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://github.com/Joystream/joystream-website">
-      Joystream Website
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Joystream/communications">
-      Blog
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Joystream/apps">
-      Pioneer App
-  </h3>
-</div>
-
 # Table of contents
 
 - [Table of contents](#table-of-contents)
