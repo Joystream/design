@@ -23,7 +23,7 @@ The purpose of this repo is to gather all the general branding, assets, rules an
 For a background on the mission and high level description of what we are trying to achieve, please consult our [mission document](https://github.com/Joystream/manifesto/blob/master/paper.pdf).
 
 ## Brand vision
-Fundamentally, our effort is an experimental one, we do not have all the answers, and we want to be honest about that in our communication. We are not promising cheaper, faster or nicer, like one typically would when selling a consumer widget or service. Instead we have hope that we can build something more empowering and accountable through this experimentation. Lastly, at the core of our vision is governance, so what we are building is never finished, we are only constructing the first piece. It is a dynamic effort we hope communities will carry forward in amazing ways, we are just providing the first set of tools.
+Fundamentally, our effort is an experimental one; we do not have all the answers, and we want to be honest about that in our communication. We are not promising cheaper, faster or nicer, like one typically would when selling a consumer widget or service. Instead we have hope that we can build something more empowering and accountable through this experimentation. Lastly, at the core of our vision is governance, so what we are building is never finished; we are only constructing the first piece. It is a dynamic effort we hope communities will carry forward in amazing ways, we are just providing the first set of tools.
 
 So our brand should carry this feeling of experimentation, excitement and building something ethical and dynamic.
 
@@ -34,13 +34,13 @@ Joystream
 A user governed video platform
 
 ## Target Audience
-Our primary audience for the next two years will be two categories of users we need to reach
+Our primary audience for the next two years will be two categories of users we need to reach:
 
 -  **Community Builders:** Users who also want to engage in actually running and guiding how the platform will work, in other words, people who want to engage in platform governance and work. This refers to people who enjoy building, fostering and participating in nascent communities. They are driven by a sense of purpose, and also the motivation to get in early on something that can become big and important. These people are often highly social, enjoy working in groups with common purpose, self directed, digital native and often outsiders in the offline world.
 
 - **Crypto Workers:** These are people out to make a small buck, they are everywhere in the crypto space, and they are looking for opportunities to do work and make some income. These are often in developing countries, or they may be a bit younger, or in some other way locked out of easy access to making a good income. Often they have very little physical or social capital, just some simple tools, and they often do manual tasks of various kinds. The importance of this contingent is that they are eager, and they are willing and able to do work for crypto, something which is currently rare.
 
-- **Long tail content creators:** These are people with small and passionate audiences, willing to put up with friction, typically covering idiosyncratic areas of focus, perhaps associated with the tabu, non-mainstream, controversial, inappropriate, ideological or marginalised. They will be suffering from monetisation, censorship or distribution problems on other platforms.
+- **Long tail content creators:** These are people with small and passionate audiences, willing to put up with friction, typically covering idiosyncratic areas of focus, perhaps associated with the taboo, non-mainstream, controversial, inappropriate, ideological or marginalised. They will be suffering from monetisation, censorship or distribution problems on other platforms.
 
 ## Competition
 
