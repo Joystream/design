@@ -43,7 +43,7 @@ Our primary audience for the next two years will be two categories of users we n
 
 - **Crypto Workers:** These are people out to make a small buck, they are everywhere in the crypto space, and they are looking for opportunities to do work and make some income. These are often in developing countries, or they may be a bit younger, or in some other way locked out of easy access to making a good income. Often they have very little physical or social capital, just some simple tools, and they often do manual tasks of various kinds. The importance of this contingent is that they are eager, and they are willing and able to do work for crypto, something which is currently rare.
 
-- **Long tail content creators:** These are people with small and passionate audiences, willing to put up with friction, typically covering idiosyncratic areas of focus, perhaps associated with the taboo, non-mainstream, controversial, inappropriate, ideological or marginalized. They will be suffering from monetization, censorship or distribution problems on other platforms.
+- **Long-tail Content Creators:** These are people with small and passionate audiences, willing to put up with friction, typically covering idiosyncratic areas of focus, perhaps associated with the taboo, non-mainstream, controversial, inappropriate, ideological or marginalized. They will be suffering from monetization, censorship or distribution problems on other platforms.
 
 ## Competition
 
