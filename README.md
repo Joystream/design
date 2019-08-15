@@ -1,7 +1,9 @@
 <p align="center"><img src="design-repo.svg"></p>
 
-# Table of Contents
+Table of Contents
+=================
 
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Overview](#overview)
 - [Brand](#brand)
   - [Brand mission](#brand-mission)
@@ -12,6 +14,7 @@
   - [Competition](#competition)
   - [Brand Personality](#brand-personality)
   - [Brand Inspiration](#brand-inspiration)
+<!-- TOC END -->
 
 # Overview
 
@@ -40,11 +43,11 @@ Our primary audience for the next two years will be two categories of users we n
 
 - **Crypto Workers:** These are people out to make a small buck, they are everywhere in the crypto space, and they are looking for opportunities to do work and make some income. These are often in developing countries, or they may be a bit younger, or in some other way locked out of easy access to making a good income. Often they have very little physical or social capital, just some simple tools, and they often do manual tasks of various kinds. The importance of this contingent is that they are eager, and they are willing and able to do work for crypto, something which is currently rare.
 
-- **Long tail content creators:** These are people with small and passionate audiences, willing to put up with friction, typically covering idiosyncratic areas of focus, perhaps associated with the taboo, non-mainstream, controversial, inappropriate, ideological or marginalised. They will be suffering from monetisation, censorship or distribution problems on other platforms.
+- **Long-tail Content Creators:** These are people with small and passionate audiences, willing to put up with friction, typically covering idiosyncratic areas of focus, perhaps associated with the taboo, non-mainstream, controversial, inappropriate, ideological or marginalized. They will be suffering from monetization, censorship or distribution problems on other platforms.
 
 ## Competition
 
-The most natural competition to consider would be other projects trying to build more user controlled media platforms, often using Blockchain or other peer-to-peer technology as a result. There are quite a few such projects, emphasising different aspects of how they will be better than existing centralised platforms like YouTube or Soundcloud. What sets us apart is that we focus very deeply on governance, and how users will be in direct control of everything. Others focus on more detailed particular features, like how monetisation or advertising will work, or that users can get paid for providing bandwidth in the system.
+The most natural competition to consider would be other projects trying to build more user controlled media platforms, often using Blockchain or other peer-to-peer technology as a result. There are quite a few such projects, emphasizing different aspects of how they will be better than existing centralized platforms like YouTube or Soundcloud. What sets us apart is that we focus very deeply on governance, and how users will be in direct control of everything. Others focus on more detailed particular features, like how monetization or advertising will work, or that users can get paid for providing bandwidth in the system.
 
 ## Brand Personality
 
@@ -56,4 +59,4 @@ The most natural competition to consider would be other projects trying to build
 
 ## Brand Inspiration
 
-We are very inspired by the branding that you find in projects like Aragon, which is also a governance project. They are very effective at putting the ethics and mission of their projects at the center of their communication, and all of their public messages are coordinated around this. They also have a very clear separation between the project, and the different entities involved in organising the project.
+We are very inspired by the branding that you find in projects like Aragon, which is also a governance project. They are very effective at putting the ethics and mission of their projects at the center of their communication, and all of their public messages are coordinated around this. They also have a very clear separation between the project, and the different entities involved in organizing the project.
