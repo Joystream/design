@@ -34,7 +34,7 @@ So our brand should carry this feeling of experimentation, excitement and buildi
 Joystream
 
 ## Tagline
-A user governed video platform
+A user-governed video platform
 
 ## Target Audience
 Our primary audience for the next two years will be two categories of users we need to reach:
