@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>icons/system/fill/monitor</title>
-    <desc>Created with Sketch.</desc>
-    <g id="icons/system/fill/monitor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M17,20 L17,22 L7,22 L7,20 L17,20 Z M21,2 C22.1045695,2 23,2.8954305 23,4 L23,16 C23,17.1045695 22.1045695,18 21,18 L3,18 C1.8954305,18 1,17.1045695 1,16 L1,4 C1,2.8954305 1.8954305,2 3,2 L21,2 Z" id="Combined-Shape" fill="#4038FF" fill-rule="nonzero"></path>
-    </g>
-</svg>

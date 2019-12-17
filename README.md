@@ -1,4 +1,4 @@
-<p align="center"><img src="design-repo.svg"></p>
+<p align="center"><img src="design_new.svg"></p>
 
 # Table of contents
 
@@ -31,7 +31,7 @@ So our brand should carry this feeling of experimentation, excitement and buildi
 Joystream
 
 ## Tagline
-A user governed video platform
+The video platform DAO
 
 ## Target Audience
 Our primary audience for the next two years will be two categories of users we need to reach:
