@@ -28,13 +28,13 @@ Table of Contents
 ===
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Overview](#overview)
-    - [Structure and Links](#structure-and-links)
-    - [Brand Guide](#brand-guide)
-    - [Logo](#logo)
-    - [Illustrations](#illustrations)
-    - [Social Media](#social-media)
-    - [Source Files](#source-files)
-    - [Other Assets](#other-assets)
+  - [Structure and Links](#structure-and-links)
+  - [Brand Guide](#brand-guide)
+  - [Logo](#logo)
+  - [Illustrations](#illustrations)
+  - [Social Media](#social-media)
+  - [Source Files](#source-files)
+  - [Other Assets](#other-assets)
 - [Brand Information](#brand-information)
   - [Brand Name](#brand-name)
   - [Brand Tagline](#brand-tagline)
@@ -51,7 +51,7 @@ The purpose of this repo is to gather all the general assets, rules and resource
 
 Within this `README`, the structure section below aims to briefly lay out what the different folders are for and there are also some short sections below discussing some of the main asset types. There is also a further section below outlining some important brand information.
 
-### Structure and Links
+## Structure and Links
 
 |   Folder Name  |                           Purpose                           |
 |:--------------:|:-----------------------------------------------------------:|
@@ -66,30 +66,30 @@ Within this `README`, the structure section below aims to briefly lay out what t
 |     [`/source`](source)    |      Source files for all the assets found in this repo     |
 |  [`/icons/system-icons`](icons/system-icons) |     Icons to be used in our applications (e.g. Pioneer)     |
 
-### Brand Guide
+## Brand Guide
 Our brand guide is the definitive source of information and guidance on how to use the assets you find in this repository. Before you begin using the assets here, it is highly recommended to have a quick read of this document to get a sense of the rules and best practices for each asset type.
 
 Our brand guide can be found [here](brand-guide/branding.pdf).
 
-### Logo
+## Logo
 
 Our logo is perhaps the most important asset from a branding perspective. We have a number of different types of logo available for use (emblem, wordmark, icon etc.) in a number of different color schemes so it is important to follow the rules for the particular variant of the logo you are using. All of these rules can be found in the brand guide mentioned earlier.
 
 <p align="center"><img src="logo-use.jpeg"></p>
 
-### Illustrations
+## Illustrations
 We have designed a number of illustrations which can be used in various situations. They are probably most appropriate for communications with our stakeholders. These communications can take the form of blog posts, press releases, social media posts, newsletters and more.
 <br><br>
 <p align="center"><img src="illustrations/PNG (2x)/future testnets.png" width="200"></p>
 <br>
 
-### Social Media
+## Social Media
 The `/social-media` folder in this repo contains all of the assets necessary for our social media accounts. These include cover images for profile pages as well as cover images for blog posts etc.
 
-### Source Files
+## Source Files
 Source material (in the form of Adobe Illustrator and Sketch files) can be found in the `/source` folder. This is unlikely to be useful for the typical visitor to this repository, but will probably be very helpful for designers.
 
-### Other Assets
+## Other Assets
 There are a selection of other assets available in this repository which do not warrant their own description yet as they are not needed yet. More information will be added on these assets and their usage rules in the future!
 
 <p align="center"><img src="other/promotional/shirts.png"></p>
