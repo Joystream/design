@@ -1,2 +1,0 @@
-Joystream Assets
-================
