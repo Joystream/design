@@ -33,3 +33,9 @@ This folder contains a number of logo variants, for use in various places.
     - `@1x`
     - `@2x`
     - `@5x`
+
+## 3D files
+
+Gleev icon is available as an editable and procedurally generated 3D model inside of a Blender project file. In the file, by changing the environmental and logo materials and enabling/disabling different light setups (it's all labeled), a Gleev icon can be rendered in light, dark and cinematic versions that all vector icons are based on.
+
+![screenshot](/3d/screenshot.png)
